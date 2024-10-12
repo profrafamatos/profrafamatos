@@ -1,6 +1,6 @@
 # 👩‍🏫 Bem-vindo ao meu GitHub!
 
-Olá! Eu sou a **Professora Rafaella Matos ** e aqui você vai encontrar um mundo de códigos, exercícios e diversão! 🚀💻
+Olá! Eu sou a ** Professora Rafaella Matos ** e aqui você vai encontrar um mundo de códigos, exercícios e diversão! 🚀💻
 
 🛠️ **O que você vai encontrar aqui?**
 - Exemplos de códigos que desenvolvemos juntos em aula.
